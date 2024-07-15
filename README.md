@@ -49,10 +49,3 @@ Sinta-se à vontade para contribuir com melhorias ou novas funcionalidades. Para
 4. Push para a branch (`git push origin minha-alteracao`).
 5. Crie um Pull Request.
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## Contato
-
-Para dúvidas ou sugestões, sinta-se à vontade para abrir uma issue no GitHub ou enviar um e-mail para [seu-email@exemplo.com](mailto:seu-email@exemplo.com).
